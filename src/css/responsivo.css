@@ -1,0 +1,23 @@
+@media (max-width: 1650px) {
+  #botao-reset {
+    bottom: -2000px;
+  }
+}
+
+@media (max-width: 482px) {
+    .card{
+        font-size: 12px;
+        max-width: 40%;
+    }
+}
+
+@media (max-width: 400px) {
+    .card{
+        font-size: 10px;
+        max-width: 38%;
+    }
+
+    .link{
+        font-size: 12px;
+    }
+}

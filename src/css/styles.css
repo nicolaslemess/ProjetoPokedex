@@ -79,7 +79,6 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
   border-radius: 10px;
   overflow: scroll;
   font-weight: 500;
-  font-size: 15px;
   height: 80px;
   margin: 15px;
   text-align: left;
@@ -113,7 +112,6 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
 
 .type {
   font-weight: 700;
-  font-size: 15px;
   display: inline-block;
   border-radius: 15px;
   padding: 2px;
