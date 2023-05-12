@@ -1,0 +1,72 @@
+.number {
+  font-weight: 400;
+  background-color: #767676;
+}
+
+.grama {
+  background-color: rgb(102, 204, 98);
+}
+
+.venenoso {
+  background-color: rgb(187, 85, 255);
+}
+
+.fogo {
+  background-color: rgb(255, 173, 105);
+}
+
+.voador {
+  background-color: rgb(194, 177, 255);
+}
+
+.agua {
+  background-color: rgb(110, 137, 255);
+}
+
+.inseto {
+  background-color: rgb(178, 192, 100);
+}
+
+.normal {
+  background-color: #bbbb71;
+}
+
+.eletrico {
+  background-color: #f8d030;
+}
+
+.terrestre {
+  background-color: #b6a883;
+}
+
+.fada {
+  background-color: #ee99ac;
+}
+
+.lutador{
+background-color: #ff3b3b;
+}
+
+.psiquico{
+  background-color: #f85888;
+}
+
+.pedra{
+  background-color: #b8a038;
+}
+
+.aco{
+  background-color: #b8b8d0;
+}
+
+.gelo{
+  background-color: #98d8d8;
+}
+
+.fantasma{
+  background-color: #705898;
+}
+
+.dragao{
+  background-color: #662cec;
+}
