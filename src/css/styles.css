@@ -1,5 +1,5 @@
 body {
-background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
+  background-image: linear-gradient(to right, rgb(103, 153, 80), rgb(13, 75, 51));
   font-family: Montserrat;
   font-weight: 900;
   color: rgb(27, 27, 27);
@@ -15,14 +15,14 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
   margin: 0 auto;
 }
 
-.title{
+.title {
   margin: 0 auto;
   font-size: 30px;
   color: white;
   filter: drop-shadow(0px 0px 30px rgb(27, 27, 27));
 }
 
-.thintxt{
+.thintxt {
   font-weight: 400;
 }
 
@@ -47,16 +47,18 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
   transition: ease 0.2s;
 }
 
-.card:hover{
-  transform: scale(1.05);
+.card:hover {
+  border: 3px solid rgb(146, 255, 152);
+  filter: drop-shadow(4px 4px 0px rgb(146, 255, 152));
+  box-shadow: 0px 0px 50px rgb(146, 255, 152, 0.4);
 }
 
 .info {
-    display: flex;
-    justify-content: space-between;
-    padding-right: 10px;
-    padding-left: 10px;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-left: 10px;
+  align-items: center;
   padding-top: 10px;
 }
 
@@ -147,11 +149,11 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
   transition: transform 0.1s ease;
 }
 
-.link:hover{
+.link:hover {
   transform: scale(1.05);
 }
 
-.up{
+.up {
   max-width: 30px;
   opacity: 90%;
 }
@@ -171,9 +173,9 @@ background-image: linear-gradient(to right,rgb(103, 153, 80),rgb(13, 75, 51));
   transition: transform 0.1s ease;
 }
 
-#botao-reset:hover{
+#botao-reset:hover {
   transform: scale(1.1);
-  background-color:#afafaf;
+  background-color: #afafaf;
   cursor: pointer;
 }
 
